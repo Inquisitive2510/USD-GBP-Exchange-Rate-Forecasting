@@ -1,0 +1,8 @@
+text
+streamlit
+pandas
+numpy
+matplotlib
+statsmodels
+arch
+scikit-learn
